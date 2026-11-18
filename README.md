@@ -27,8 +27,10 @@ This project analyses the Sample Superstore dataset and presents business perfor
 - Monthly sales fluctuate over time.
 
 ## Deliverables
-- `Superstore_Sales_Performance_Dashboard.pbix`
-- `Superstore_Data_Storytelling_Report.pdf`
+
+## Deliverables
+- `Superstore_Sales_Performance__Dashboard.pbix`
+- `Superstore_Sales_Performance_Dashboard.pdf`
 
 ## Conclusion
 This project demonstrates how data visualization and storytelling can transform business data into meaningful insights and support better decision-making.
